@@ -1,0 +1,9 @@
+D:/CMakeLabs/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+D:/CMakeLabs/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+D:/CMakeLabs/out/build/x64-Debug/libutils/CMakeFiles/utils_shared.dir
+D:/CMakeLabs/out/build/x64-Debug/libutils/CMakeFiles/utils_static.dir
+D:/CMakeLabs/out/build/x64-Debug/libutils/CMakeFiles/edit_cache.dir
+D:/CMakeLabs/out/build/x64-Debug/libutils/CMakeFiles/rebuild_cache.dir
+D:/CMakeLabs/out/build/x64-Debug/lab-1-encapsulation/CMakeFiles/lab-1-encapsulation.dir
+D:/CMakeLabs/out/build/x64-Debug/lab-1-encapsulation/CMakeFiles/edit_cache.dir
+D:/CMakeLabs/out/build/x64-Debug/lab-1-encapsulation/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,18 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "default",
+      "project": "cmakelists.txt",
+      "projectTarget": "lab-1-encapsulation.exe (lab-1-encapsulation\\lab-1-encapsulation.exe)",
+      "name": "lab-1-encapsulation.exe (lab-1-encapsulation\\lab-1-encapsulation.exe)"
+    },
+    {
+      "type": "default",
+      "project": "CMakeLists.txt",
+      "projectTarget": "lab-1-encapsulation.exe (lab-1-encapsulation\\lab-1-encapsulation.exe)",
+      "name": "lab-1-encapsulation.exe (lab-1-encapsulation\\lab-1-encapsulation.exe)"
+    }
+  ]
+}
